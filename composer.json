@@ -9,5 +9,10 @@
             "email": "amansrivastava835@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Info\\": "src/"
+        }
+    },
     "require": {}
 }
