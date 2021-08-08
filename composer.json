@@ -1,0 +1,13 @@
+{
+    "name": "vagrant/test-project",
+    "description": "this library generate random quate for you",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "aman srivastava",
+            "email": "amansrivastava835@gmail.com"
+        }
+    ],
+    "require": {}
+}
